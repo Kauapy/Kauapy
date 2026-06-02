@@ -10,7 +10,7 @@
 
 ```javascript
 const kaua = {
-    code: ["JavaScript", "HTML", "CSS"],
+    code: ["React", "Node", "SQL"],
     aprendendo: "React ⚛️",
     paixoes: ["Programar", "Debugar", "Jogar 🎮"],
     desafio: "Transformar bugs em features",
