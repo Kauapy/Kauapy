@@ -55,17 +55,6 @@ const kaua = {
 
 ---
 
-### 📌 Projetos em destaque
-
-<!-- Edite a tabela abaixo com seus projetos reais.
-     Troque o nome, a descrição, as tecnologias e o link de cada um. -->
-
-| Projeto | Descrição | Tecnologias | Link |
-|---------|-----------|-------------|------|
-| **Nome do Projeto 1** | Breve descrição do que ele faz. | `React` `JS` `CSS` | [Repositório](https://github.com/Kauapy/projeto-1) |
-| **Nome do Projeto 2** | Breve descrição do que ele faz. | `Node.js` `MongoDB` | [Repositório](https://github.com/Kauapy/projeto-2) |
-| **Nome do Projeto 3** | Breve descrição do que ele faz. | `TypeScript` `MySQL` | [Repositório](https://github.com/Kauapy/projeto-3) |
-
 ---
 
 ### 🔥 Minha atividade no GitHub
